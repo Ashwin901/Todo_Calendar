@@ -22,6 +22,7 @@ TO view tasks of a particular date tap on the date and the tasks of that particu
 
 ![view_tasks_gif](https://user-images.githubusercontent.com/56069189/82360141-8dffae80-9a26-11ea-8000-d311e91c4d79.gif)
 
+To check or to notify that task has been completed the user can press the checkbox.
  
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
