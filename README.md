@@ -15,6 +15,9 @@ It also has a view tasks button to view the tasks that the user has already adde
 
  To add tasks press the floating action button which will take the use to a alert dialog where you can add tasks.
  
+ ![add_task_gif](https://user-images.githubusercontent.com/56069189/82359323-60fecc00-9a25-11ea-8eab-e675c60a1a96.gif)
+
+ 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
