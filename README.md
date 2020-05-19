@@ -26,6 +26,9 @@ To check or to notify that task has been completed the user can press the checkb
 
 ![getTask_gif](https://user-images.githubusercontent.com/56069189/82361035-e5524e80-9a27-11ea-9e6d-2986bbc160ea.gif)
  
+To delete tasks the user has to tap on the delete icon.
+
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
