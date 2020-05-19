@@ -11,7 +11,7 @@ It also has a view tasks button to view the tasks that the user has already adde
  
  If the user pushes the view tasks button then the dates which contain tasks will have a black dot signifying that it has tasks.
  
-  ![WhatsApp Image 2020-05-19 at 10 31 37 PM](https://user-images.githubusercontent.com/56069189/82356405-22ffa900-9a21-11ea-96be-82cf731821e1.jpeg)
+
  
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
