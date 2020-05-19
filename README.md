@@ -17,6 +17,10 @@ It also has a view tasks button to view the tasks that the user has already adde
  
  ![add_task_gif](https://user-images.githubusercontent.com/56069189/82359323-60fecc00-9a25-11ea-8eab-e675c60a1a96.gif)
 
+
+TO view tasks of a particular date tap on the date and the tasks of that particular date will appear on the screen.
+
+
  
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
