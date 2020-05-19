@@ -20,6 +20,7 @@ It also has a view tasks button to view the tasks that the user has already adde
 
 TO view tasks of a particular date tap on the date and the tasks of that particular date will appear on the screen.
 
+![view_tasks_gif](https://user-images.githubusercontent.com/56069189/82360141-8dffae80-9a26-11ea-8000-d311e91c4d79.gif)
 
  
 
