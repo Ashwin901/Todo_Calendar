@@ -30,9 +30,12 @@ To delete tasks the user has to tap on the delete icon.
 
 ![delete_task_gif](https://user-images.githubusercontent.com/56069189/82361512-8f31db00-9a28-11ea-98ed-ac095cc176d6.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This  app has a Bloc pattern.The Bloc logic implementation is in the bloc.dart file.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The events to pass to the bloc.dart file is in the event.dart file.The state to accept from the bloc file is in the state.dart file. 
+
+To pass event we have used .add() method.At the end the bloc is closed using .close() method.
+
+The database used to store data is Hive.There are two adapters for hive in map_tasks.g.dart and task_elements.g.dart.
+The model for these adapters are in map_tasks.dart and task_elements.dart
+The name of the box is 'eventList'.
