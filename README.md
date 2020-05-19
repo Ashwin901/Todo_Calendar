@@ -11,6 +11,7 @@ It also has a view tasks button to view the tasks that the user has already adde
  
  If the user pushes the view tasks button then the dates which contain tasks will have a black dot signifying that it has tasks.
  
+![get_initial_task_gif](https://user-images.githubusercontent.com/56069189/82358842-b5ee1280-9a24-11ea-9471-297df3b393d8.gif)
 
  
 
