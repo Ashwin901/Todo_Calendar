@@ -1,12 +1,11 @@
 # irisblocpattern
 
-A new Flutter application.
+ToDo List App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+The project starts with a calendar view from table_calendar: ^2.2.3 package .
+It also has a view tasks button to view the tasks that the user has already added( you can also press the floating action button to view the tasks as well).The screen also has a floating action button using which we can add tasks to our calendar
 
 ![WhatsApp Image 2020-05-19 at 10 18 56 PM](https://user-images.githubusercontent.com/56069189/82354965-2db93e80-9a1f-11ea-998f-3464c0735afa.jpeg)
 
